@@ -93,12 +93,12 @@ Codility网站：https://app.codility.com/programmers/
 	<th rowspan="4"> 5</th>
 	<td rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L5_Prefix%20Sums">
 Prefix Sums(前缀和)</a></td>
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.1%20%20PassingCars.md">5.1 PassingCars</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.1%20PassingCars.md">5.1 PassingCars</a></td>
 	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.2%20%20GenomicRangeQuery.md">5.2 GenomicRangeQuery</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.2%20GenomicRangeQuery.md">5.2 GenomicRangeQuery</a></td>
 	<th> ★★★</th>
 	<th> 100%</th>	
 </tr> 
