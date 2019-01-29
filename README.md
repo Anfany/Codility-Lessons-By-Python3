@@ -242,5 +242,6 @@ Leader(超频数)</a></td>
 </body>  
 
 **扫描下方二维码，关注订阅号Pythonfan，获取更多**
+
 ![image](https://github.com/Anfany/Machine-Learning-for-Beginner-by-Python3/blob/master/pythonfan_anfany.jpg)
 
