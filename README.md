@@ -252,7 +252,7 @@ Leader(超频数)</a></td>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L12_Euclidean%20algorithm/12.2%20CommonPrimeDivisors.md">12.2 CommonPrimeDivisors</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 
