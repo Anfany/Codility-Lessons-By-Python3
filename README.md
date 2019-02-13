@@ -233,12 +233,12 @@ Leader(超频数)</a></td>
 	<th rowspan="2"> 11</th>
 	<td rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L11_Sieve%20of%20Eratosthenes">Sieve of Eratosthenes(Eratosthenes筛法)</a></td>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L11_Sieve%20of%20Eratosthenes/11.1%20CountNonDivisible.md">11.1 CountNonDivisible</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L11_Sieve%20of%20Eratosthenes/11.2%20CountSemiprimes.md">11.2 CountSemiprimes</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 
