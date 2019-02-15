@@ -261,12 +261,12 @@ Leader(超频数)</a></td>
 	<th rowspan="2"> 13</th>
 	<td rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L13_Fibonacci%20numbers">Fibonacci numbers(斐波那契数)</a></td>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L13_Fibonacci%20numbers/13.1%20FibFrog.md">13.1 FibFrog</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L13_Fibonacci%20numbers/13.2%20Ladder.md">13.2 Ladder</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 
