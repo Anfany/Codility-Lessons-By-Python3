@@ -275,7 +275,7 @@ Leader(超频数)</a></td>
 	<th rowspan="2"> 14</th>
 	<td rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L14_Binary%20search%20algorithm">Binary search algorithm(二分查找)</a></td>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L14_Binary%20search%20algorithm/14.1%20NailingPlanks.md">14.1 NailingPlanks</a></td>
-	<th> ★★</th>
+	<th> ★★★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
