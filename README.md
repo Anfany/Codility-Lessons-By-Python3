@@ -306,7 +306,7 @@ Leader(超频数)</a></td>
 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.4%20MinAbsSumOfTwo.md">15.4 MinAbsSumOfTwo</a></td>
-	<th> ★★★</th>
+	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 
