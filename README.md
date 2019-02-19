@@ -285,6 +285,32 @@ Leader(超频数)</a></td>
 </tr> 
 
 
+<tr>   
+	<th rowspan="4"> 15</th>
+	<td rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L15_Caterpillar%20method">Caterpillar method(Caterpillar法)</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.1%20AbsDistinct.md">15.1 AbsDistinct</a></td>
+	<th> ★</th>
+	<th> 100%</th>	
+</tr> 
+
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.2%20CountDistinctSlices.md">15.2 CountDistinctSlices</a></td>
+	<th> ★</th>
+	<th> 100%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.3%20CountTriangles.md">15.3 CountTriangles</a></td>
+	<th> ★★</th>
+	<th> 100%</th>	
+</tr> 
+
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.4%20MinAbsSumOfTwo.md">15.4 MinAbsSumOfTwo</a></td>
+	<th> ★★★</th>
+	<th> 100%</th>	
+</tr> 
+
+
 
 </table>   
 </body>  
