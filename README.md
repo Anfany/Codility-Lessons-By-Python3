@@ -333,7 +333,7 @@ Leader(超频数)</a></td>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L17_Dynamic%20programming/17.2%20MinAbsSum.md">17.2 MinAbsSum</a></td>
-	<th> ★</th>
+	<th> ★★★</th>
 	<th> 100%</th>	
 </tr> 
 
