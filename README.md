@@ -314,15 +314,28 @@ Leader(超频数)</a></td>
 	<th rowspan="2"> 16</th>
 	<td rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L16_Greedy%20algorithms">Greedy algorithms(贪婪算法)</a></td>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L16_Greedy%20algorithms/16.1%20MaxNonoverlappingSegments.md">16.1 MaxNonoverlappingSegments</a></td>
-	<th> ★★★</th>
+	<th> ★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L16_Greedy%20algorithms/16.2%20TieRopes.md">16.2 TieRopes</a></td>
-	<th> ★★</th>
+	<th> ★</th>
 	<th> 100%</th>	
 </tr> 
 
+
+<tr>   
+	<th rowspan="2"> 17</th>
+	<td rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L17_Dynamic%20programming">Dynamic programming(动态规划)</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L17_Dynamic%20programming/17.1%20NumberSolitaire.md">17.1 NumberSolitaire</a></td>
+	<th> ★</th>
+	<th> 100%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L17_Dynamic%20programming/17.2%20MinAbsSum.md">17.2 MinAbsSum</a></td>
+	<th> ★</th>
+	<th> 100%</th>	
+</tr> 
 
 
 
