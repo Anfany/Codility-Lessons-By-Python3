@@ -292,7 +292,6 @@ Leader(超频数)</a></td>
 	<th> ★</th>
 	<th> 100%</th>	
 </tr> 
-
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.2%20CountDistinctSlices.md">15.2 CountDistinctSlices</a></td>
 	<th> ★</th>
@@ -309,6 +308,23 @@ Leader(超频数)</a></td>
 	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
+
+
+<tr>   
+	<th rowspan="2"> 16</th>
+	<td rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L16_Greedy%20algorithms">Greedy algorithms(贪婪算法)</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L16_Greedy%20algorithms/16.1%20MaxNonoverlappingSegments.md">16.1 MaxNonoverlappingSegments</a></td>
+	<th> ★★★</th>
+	<th> 100%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L16_Greedy%20algorithms/16.2%20TieRopes.md">16.2 TieRopes</a></td>
+	<th> ★★</th>
+	<th> 100%</th>	
+</tr> 
+
+
+
 
 
 
