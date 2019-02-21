@@ -339,7 +339,7 @@ Leader(超频数)</a></td>
 
 <tr>   
 	<th rowspan="3"> 90</th>
-	<td rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%202015%20challenge">Tasks from 2015 challenge</a></td>
+	<th rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%202015%20challenge">Tasks from Indeed Prime 2015 challenge</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%202015%20challenge/90.1%20LongestPassword.md">90.1 LongestPassword</a></td>
 	<th> ★</th>
 	<th> 100%</th>	
