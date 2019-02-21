@@ -18,7 +18,7 @@ Codility网站：https://app.codility.com/programmers/
 </tr>  
 <tr>   
 	<th> 1</th>
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L1_Iterations">Iterations<br>(迭代)</a></td>
+	<th><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L1_Iterations">Iterations<br>迭代</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L1_Iterations/1.1%20BinaryGap.md">1.1 BinaryGap</a></td>
 	<th> ★</th>
 	<th> 100%</th>
@@ -28,7 +28,7 @@ Codility网站：https://app.codility.com/programmers/
 
 <tr>   
 	<th rowspan="2"> 2</th>
-	<td rowspan="2" style='border-left'><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L2_Arrays">Arrays(数组)</a></td>
+	<th rowspan="2" style='border-left'><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L2_Arrays">Arrays<br>数组</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L2_Arrays/2.1%20OddOccurrencesInArray.md">2.1 OddOccurrencesInArray</a></td>
 	<th> ★</th>	
 	<th> 100%</th>	
@@ -41,7 +41,7 @@ Codility网站：https://app.codility.com/programmers/
 
 <tr>   
 	<th rowspan="3"> 3</th>
-	<td rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L3_Time%20Complexity">Time Complexity(时间复杂度)</a></td>
+	<th rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L3_Time%20Complexity">Time Complexity<br>时间复杂度</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L3_Time%20Complexity/3.1%20FrogJmp.md">3.1 FrogJmp</a></td>
 	<th> ★</th>
 	<th> 100%</th>	
@@ -62,7 +62,7 @@ Codility网站：https://app.codility.com/programmers/
 
 <tr>   
 	<th rowspan="4"> 4</th>
-	<td rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L4_Counting%20Elements">Counting Elements(元素计数)</a></td>
+	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L4_Counting%20Elements">Counting Elements<br>元素计数</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L4_Counting%20Elements/4.1%20PermCheck.md">4.1 PermCheck</a></td>
 	<th> ★</th>
 	<th> 100%</th>	
