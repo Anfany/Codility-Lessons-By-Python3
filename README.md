@@ -337,6 +337,25 @@ Leader(超频数)</a></td>
 	<th> 100%</th>	
 </tr> 
 
+<tr>   
+	<th rowspan="3"> 90</th>
+	<td rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%202015%20challenge">Tasks from 2015 challenge</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%202015%20challenge/90.1%20LongestPassword.md">90.1 LongestPassword</a></td>
+	<th> ★</th>
+	<th> 100%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%202015%20challenge/90.2%20FloodDepth.md">90.2 FloodDepth</a></td>
+	<th> ★★★</th>
+	<th> 100%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%202015%20challenge/90.3%20SlalomSkiing.md">90.3 SlalomSkiing</a></td>
+	<th> ★★★</th>
+	<th> 100%</th>	
+</tr> 
+
+
 
 
 
