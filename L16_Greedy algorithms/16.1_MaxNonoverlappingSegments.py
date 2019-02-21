@@ -1,7 +1,7 @@
 # -*- coding：utf-8 -*-
 # &Author  AnFany
 # Lesson 16：Greedy algorithms
-# P 16.2 TieRopes
+# P 16.1 MaxNonoverlappingSegments
 
 
 def solution(A, B):
@@ -19,7 +19,6 @@ def solution(A, B):
             count += 1
             end = B[i]
     return count + 1
-
 
 
 
