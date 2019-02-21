@@ -18,7 +18,7 @@ Codility网站：https://app.codility.com/programmers/
 </tr>  
 <tr>   
 	<th> 1</th>
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L1_Iterations">Iterations(迭代)</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L1_Iterations">Iterations<br>(迭代)</a></td>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L1_Iterations/1.1%20BinaryGap.md">1.1 BinaryGap</a></td>
 	<th> ★</th>
 	<th> 100%</th>
