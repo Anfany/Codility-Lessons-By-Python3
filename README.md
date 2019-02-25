@@ -346,7 +346,7 @@ Leader<br>超频数</a></th>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.2%20FloodDepth.md">90.2 FloodDepth</a></td>
-	<th> ★★★</th>
+	<th> ★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
