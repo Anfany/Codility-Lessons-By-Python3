@@ -340,17 +340,17 @@ Leader<br>超频数</a></th>
 <tr>   
 	<th rowspan="3"> 90</th>
 	<th rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge">Tasks from Indeed Prime<br>2015 challenge</a></th>
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.1%20LongestPassword.md">90.1 LongestPassword</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.1%20LongestPassword.md">90.1 LongestPassword</a></td>
 	<th> ★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.2%20FloodDepth.md">90.2 FloodDepth</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.2%20FloodDepth.md">90.2 FloodDepth</a></td>
 	<th> ★★★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.3%20SlalomSkiing.md">90.3 SlalomSkiing</a></td>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.3%20SlalomSkiing.md">90.3 SlalomSkiing</a></td>
 	<th> ★★★</th>
 	<th> 100%</th>	
 </tr> 
