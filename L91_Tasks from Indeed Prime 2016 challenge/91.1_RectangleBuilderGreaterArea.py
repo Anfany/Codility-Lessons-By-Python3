@@ -51,26 +51,3 @@ def solution(A, X):
                 if sum_count > 1e9:
                     return -1
             return sum_count
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
