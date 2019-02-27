@@ -359,12 +359,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="4"> 91</th>
 	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge">Tasks from Indeed Prime<br>2016 challenge</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.1%20RectangleBuilderGreaterArea.md">91.1 RectangleBuilderGreaterArea</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.2%20TreeProduct.md">91.2 TreeProduct</a></td>
-	<th> ★</th>
+	<th> ★★★</th>
 	<th> 100%</th>	
 </tr> 
 <tr> 
