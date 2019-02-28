@@ -364,7 +364,7 @@ Leader<br>超频数</a></th>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.2%20TreeProduct.md">91.2 TreeProduct</a></td>
-	<th> ★★★</th>
+	<th> ★★★★</th>
 	<th> 0%</th>	
 </tr> 
 <tr> 
@@ -374,7 +374,7 @@ Leader<br>超频数</a></th>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.4%20DwarfsRafting.md">91.4 DwarfsRafting</a></td>
-	<th> ★★★</th>
+	<th> ★</th>
 	<th> 0%</th>	
 </tr> 
 
