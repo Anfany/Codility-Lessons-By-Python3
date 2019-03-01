@@ -47,7 +47,7 @@ def hilbert_maze(n):
 
 def judge_walkable(n, x, y):
     """
-    判断N=n的迷宫中，坐标为(x,y)的网格是否可以走过去，是的话，返回True，否则返回Flase
+    判断N=n的迷宫中，坐标为(x,y)的网格是否可以走过去，是的话0，否则返回1
     超出迷宫边界的不在此处考虑，在函数point_go中判断
     注意：题目中的迷宫最左上、左下角的网格坐标为(0，2**(N+1)), (0, 0),本程序中分别定义为(0,0)，(2**(N+1),0)
     因此在寻找路径的时候，会对开始、结束的坐标也进行相应的转换
@@ -59,45 +59,44 @@ def judge_walkable(n, x, y):
     # 首先判断处在小迷宫相交地方的三个网格
     if x == 2 ** n:
         if y == 1:   # 左上，左下相交
-            return False
+            return 1
         elif y == 2 ** (n + 1) - 1:  # 右上，右下相交
-            return False
+            return 0
         else:
-            return True
+            return 0
     if y == 2 ** n:
         if x == 2 ** n - 1:   # 左上，右上相交
-            return False
+            return 1
         else:
-            return True
+            return 0
 
     # 然后判断是否处于四周
     if x == 0 or x == 2 ** (n+1):
-        return True
+        return 0
     if y == 0 or y == 2 ** (n+1):
-        return True
-
+        return 0
 
     #  需要将坐标(x,y)等价转换到N=1的迷宫中的网格。
     #  此时给出N=1中的坐标的关系
     maze_list = [[0, 0, 0, 0, 0], [0, 1, 1, 1, 0], [0, 1, 0, 1, 0], [0, 1, 0, 1, 0], [0, 0, 0, 0, 0]]
-    maze_dict = {(i, j): True if maze_list[i][j] == 0 else False for i in range(len(maze_list)) for j in
+    maze_dict = {(i, j): 0 if maze_list[i][j] == 0 else 1 for i in range(len(maze_list)) for j in
                  range(len(maze_list[i]))}  # N=1的迷宫中各个网格的情况
 
     while (x, y) not in maze_dict:
 
         #  根据所在不同区域进行不同的变化
 
-        if x < 2**n < y:  # 右上, 等于的情况上面已经判断
+        if 1 <= x < 2**n < y < 2**(n+1):  # 右上, 等于的情况上面已经判断
             y -= 2**n  # 向左平移2**n
 
-        elif y < 2**n < x:  # 左下
-            #  首先逆时针旋转90度, 原始的a行b列变为(2**n-b)行a列
+        elif 1 <= y < 2**n < x < 2**(n+1):  # 左下
+            #  首先逆时针旋转90度, 原始的a行b列变为2**n-b行a列
             a = x - 2 ** n
             b = y
-            x, y = 2 ** n+(2 ** n - b), a
+            x, y = 2 ** n + 2 ** n-b, a
             # 然后向上平移2**n个单位
             x -= 2 ** n
-        elif 2**n < x and 2**n < y:  # 右下
+        elif 2**n < x < 2**(n+1)and 2**n < y < 2**(n+1):  # 右下
             #  首先顺时针旋转90度, 原始的a行b列变为b行(2**n-a)列
             a = x - 2 ** n
             b = y - 2 ** n
@@ -218,6 +217,18 @@ def solution(N, A, B, C, D):
     for h in path_list:
         trans_list.append([h[1], 2 ** (N+1) - h[0]])
     return len(trans_list) - 1, trans_list
+
+
+
+
+
+
+
+
+for i in range(17):
+    print(list(judge_walkable(3, i, j) for j in range(17)))
+
+
 
 
 
