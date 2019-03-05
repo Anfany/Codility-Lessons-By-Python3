@@ -380,6 +380,60 @@ Leader<br>超频数</a></th>
 
 
 
+<tr>   
+	<th rowspan="4"> 92</th>
+	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge">Tasks from Indeed Prime 2016<br>College Coders challenge</a></th>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.1%20TennisTournament.md">92.1 TennisTournament</a></td>
+	<th> ★</th>
+	<th> 0%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.2%20SocksLaundering.md">92.2 SocksLaundering</a></td>
+	<th> ★</th>
+	<th> 0%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.3%20ArrayRecovery.md">92.3 ArrayRecovery</a></td>
+	<th> ★</th>
+	<th> 0% </th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.4%20DiamondsCount.md">92.4 DiamondsCount</a></td>
+	<th> ★</th>
+	<th> 0%</th>	
+</tr> 
+
+
+
+<tr>   
+	<th rowspan="5"> 99</th>
+	<th rowspan="5"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L99_Future%20training">Future training</a></th>
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.1%20SqlSum.md">99.1 SqlSum</a></td>
+	<th> ★</th>
+	<th> 0%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.2%20StrSymmetryPoint.md">99.2 StrSymmetryPoint</a></td>
+	<th> ★</th>
+	<th> 0%</th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.3%20TreeHeight.md">99.3 TreeHeight</a></td>
+	<th> ★</th>
+	<th> 0% </th>	
+</tr> 
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.4%20ArrayInversionCount.md">99.4 ArrayInversionCount</a></td>
+	<th> ★</th>
+	<th> 0%</th>	
+</tr> 
+
+<tr> 
+	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.5%20PolygonConcavityIndext.md">99.5 PolygonConcavityIndex</a></td>
+	<th> ★</th>
+	<th> 0%</th>	
+</tr> 
+
 
 </table>   
 </body>  
