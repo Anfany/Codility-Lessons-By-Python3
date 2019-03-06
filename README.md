@@ -415,12 +415,12 @@ Leader<br>超频数</a></th>
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.2%20StrSymmetryPoint.md">99.2 StrSymmetryPoint</a></td>
 	<th> ★</th>
-	<th> 0%</th>	
+	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.3%20TreeHeight.md">99.3 TreeHeight</a></td>
 	<th> ★</th>
-	<th> 0% </th>	
+	<th> 100% </th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.4%20ArrayInversionCount.md">99.4 ArrayInversionCount</a></td>
