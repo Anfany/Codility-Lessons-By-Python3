@@ -385,12 +385,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge">Tasks from Indeed Prime 2016<br>College Coders challenge</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.1%20TennisTournament.md">92.1 TennisTournament</a></td>
 	<th> ★</th>
-	<th> 0%</th>	
+	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.2%20SocksLaundering.md">92.2 SocksLaundering</a></td>
 	<th> ★</th>
-	<th> 0%</th>	
+	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.3%20ArrayRecovery.md">92.3 ArrayRecovery</a></td>
