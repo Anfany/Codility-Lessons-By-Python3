@@ -218,19 +218,3 @@ def solution(N, A, B, C, D):
         trans_list.append([h[1], 2 ** (N+1) - h[0]])
     return len(trans_list) - 1
 
-
-
-
-
-
-
-
-
-
-for i in range(17):
-    print(list(judge_walkable(3, i, j) for j in range(17)))
-
-
-
-
-
