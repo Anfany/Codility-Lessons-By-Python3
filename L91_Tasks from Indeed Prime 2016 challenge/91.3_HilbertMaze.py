@@ -177,7 +177,7 @@ def solution(N, A, B, C, D):
     # 开始A*算法
     close_list = {}  # 已经走过的网格的集合,
     open_list = {(start_a, start_b): [(start_a, start_b), 0]}   # 将要走的网格的集合
-    while (end_c, end_d) not in open_list and open_list and len(open_list):
+    while (end_c, end_d) not in open_list and open_list:
         #  选择open_list里面代价函数最小的网格
         cost_least = min(open_list.items(), key=lambda k: k[1][1])[0]
 
