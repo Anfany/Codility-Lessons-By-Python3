@@ -394,12 +394,12 @@ Leader<br>超频数</a></th>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.3%20ArrayRecovery.md">92.3 ArrayRecovery</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 0% </th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.4%20DiamondsCount.md">92.4 DiamondsCount</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 0%</th>	
 </tr> 
 
@@ -410,7 +410,7 @@ Leader<br>超频数</a></th>
 	<th rowspan="5"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L99_Future%20training">Future training</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.1%20SqlSum.md">99.1 SqlSum</a></td>
 	<th> ★</th>
-	<th> 0%</th>	
+	<th> 100%</th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.2%20StrSymmetryPoint.md">99.2 StrSymmetryPoint</a></td>
@@ -424,13 +424,13 @@ Leader<br>超频数</a></th>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.4%20ArrayInversionCount.md">99.4 ArrayInversionCount</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 0%</th>	
 </tr> 
 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.5%20PolygonConcavityIndex.md">99.5 PolygonConcavityIndex</a></td>
-	<th> ★</th>
+	<th> ★★</th>
 	<th> 0%</th>	
 </tr> 
 
