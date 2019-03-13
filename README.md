@@ -65,22 +65,22 @@ Codility网站：https://app.codility.com/programmers/
 	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L4_Counting%20Elements">Counting Elements<br>元素计数</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L4_Counting%20Elements/4.1%20PermCheck.md">4.1 PermCheck</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingH2KGQQ-6FZ/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L4_Counting%20Elements/4.2%20FrogRiverOne.md">4.2 FrogRiverOne</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training2FZ983-NCH/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L4_Counting%20Elements/4.3%20MissingInteger.md">4.3 MissingInteger</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingRKE22K-MTS/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L4_Counting%20Elements/4.4%20MaxCounters.md">4.4 MaxCounters</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingQYBGG4-Z4F/">100%</a></th>		
 </tr> 
 
 
@@ -90,22 +90,22 @@ Codility网站：https://app.codility.com/programmers/
 Prefix Sums<br>前缀和</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.1%20PassingCars.md">5.1 PassingCars</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingANR5YN-92G/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.2%20GenomicRangeQuery.md">5.2 GenomicRangeQuery</a></td>
 	<th> ★★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingBSCPV8-ZHR/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.3%20MinAvgTwoSlice.md">5.3 MinAvgTwoSlice</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training6MFC8U-9G6/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L5_Prefix%20Sums/5.4%20CountDiv.md">5.4 CountDiv</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingZKZSNR-862/">100%</a></th>		
 </tr> 
 
 
@@ -116,23 +116,23 @@ Prefix Sums<br>前缀和</a></th>
 Sorting<br>排序</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L6_Sorting/6.1%20Distinct.md">6.1 Distinct</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingCWYMX6-69B/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L6_Sorting/6.2%20MaxProductOfThree.md">6.2 MaxProductOfThree</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingSV74NX-V5W/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L6_Sorting/6.3%20Triangle.md">6.3 Triangle</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingVE7HEQ-4JB/">100%</a></th>		
 </tr> 
 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L6_Sorting/6.4%20NumberOfDiscIntersections.md">6.4 NumberOfDiscIntersections</a></td>
 	<th> ★★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training6QEM35-K32/">100%</a></th>		
 </tr> 
 
 
