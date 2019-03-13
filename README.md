@@ -31,11 +31,11 @@ Codility网站：https://app.codility.com/programmers/
 	<th rowspan="2" style='border-left'><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L2_Arrays">Arrays<br>数组</a></th>
 	 <td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L2_Arrays/2.1%20CyclicRotation.md">2.1 CyclicRotation</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingH2WH6U-Z28/">100%</a></th>	
 </tr>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L2_Arrays/2.2%20OddOccurrencesInArray.md">2.2 OddOccurrencesInArray</a></td>
 	<th> ★</th>	
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training9GN2X6-JS4/">100%</a></th>
 </tr> 
 
 
@@ -44,17 +44,17 @@ Codility网站：https://app.codility.com/programmers/
 	<th rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L3_Time%20Complexity">Time Complexity<br>时间复杂度</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L3_Time%20Complexity/3.1%20FrogJmp.md">3.1 FrogJmp</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingT3B4HR-72W/">100%</a></th>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L3_Time%20Complexity/3.2%20PermMissingElem.md">3.2 PermMissingElem</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingHU486N-49W/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L3_Time%20Complexity/3.3%20TapeEquilibrium.md">3.3 TapeEquilibrium</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingYFZYFD-Y7A/">100%</a></th>	
 </tr> 
 
 
