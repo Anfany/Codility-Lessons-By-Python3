@@ -11,7 +11,7 @@ Codility网站：https://app.codility.com/programmers/
 	
 
 <tr>   
-	<th colspan="2"> Lesson</th>
+	<th colspan="2"> 知识点</th>
 	<th> 题目详解</th>
 	<th> 难度</th>
 	<th> 结果查看</th>
