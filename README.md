@@ -29,9 +29,7 @@ Codility网站：https://app.codility.com/programmers/
 <tr>   
 	<th rowspan="2"> 2</th>
 	<th rowspan="2" style='border-left'><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L2_Arrays">Arrays<br>数组</a></th>
-	
-<tr> 
-	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L2_Arrays/2.1%20CyclicRotation.md">2.1 CyclicRotation</a></td>
+	 <td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L2_Arrays/2.1%20CyclicRotation.md">2.1 CyclicRotation</a></td>
 	<th> ★</th>
 	<th> 100%</th>	
 </tr>
