@@ -145,23 +145,23 @@ Sorting<br>排序</a></th>
 Stacks and Queues<br>栈和队列</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L7_Stacks%20and%20Queues/7.1%20Brackets.md">7.1 Brackets</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training8TMM4E-Z8M/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L7_Stacks%20and%20Queues/7.2%20Fish.md">7.2 Fish</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training4DPX69-683/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L7_Stacks%20and%20Queues/7.3%20Nesting.md">7.3 Nesting</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingZY2Q9V-KFE/">100%</a></th>	
 </tr> 
 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L7_Stacks%20and%20Queues/7.4%20StoneWall.md">7.4 StoneWall</a></td>
 	<th> ★★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingSV4KYG-SXR/">100%</a></th>	
 </tr> 
 
 
@@ -174,12 +174,12 @@ Stacks and Queues<br>栈和队列</a></th>
 Leader<br>超频数</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L8_Leader/8.1%20EquiLeader.md">8.1 EquiLeader</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training88YQPR-AU6/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L8_Leader/8.2%20Dominator.md">8.2 Dominator</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingS8SV7R-SK3/">100%</a></th>	
 </tr> 
 
 
@@ -190,17 +190,17 @@ Leader<br>超频数</a></th>
 	<th rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L9_Maximum%20Slice%20Problem">Maximum slice problem<br>最大切片问题</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L9_Maximum%20Slice%20Problem/9.1%20MaxSliceSum.md">9.1 MaxSliceSum</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training4PCFXN-W8X/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L9_Maximum%20Slice%20Problem/9.2%20MaxProfit.md">9.2 MaxProfit</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingJAB4JQ-WQ8/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L9_Maximum%20Slice%20Problem/9.3%20%20MaxDoubleSliceSum.md">9.3 MaxDoubleSliceSum</a></td>
 	<th> ★★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingJDPHDE-J5M/">100%</a></th>	
 </tr> 
 
 
@@ -210,22 +210,22 @@ Leader<br>超频数</a></th>
 	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L10_Prime%20and%20composite%20numbers">Prime and composite numbers<br>素数和合数</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L10_Prime%20and%20composite%20numbers/10.1%20CountFactors.md">10.1 CountFactors</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingQDKHRF-E5B/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L10_Prime%20and%20composite%20numbers/10.2%20MinPerimeterRectangle.md">10.2 MinPerimeterRectangle</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingUPVG9W-BA7/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L10_Prime%20and%20composite%20numbers/10.3%20Peaks.md">10.3 Peaks</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingUAKMQZ-4CF/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L10_Prime%20and%20composite%20numbers/10.4%20Flags.md">10.4 Flags</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingZZA54M-S5Z/">100%</a></th>	
 </tr> 
 
 
@@ -234,12 +234,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L11_Sieve%20of%20Eratosthenes">Sieve of Eratosthenes<br>埃氏筛法</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L11_Sieve%20of%20Eratosthenes/11.1%20CountNonDivisible.md">11.1 CountNonDivisible</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingD8YRHG-NZ7/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L11_Sieve%20of%20Eratosthenes/11.2%20CountSemiprimes.md">11.2 CountSemiprimes</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingMUSK5X-7YJ/">100%</a></th>	
 </tr> 
 
 
@@ -248,12 +248,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L12_Euclidean%20algorithm">Euclidean algorithm<br>欧几里得算法</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L12_Euclidean%20algorithm/12.1%20ChocolatesByNumbers.md">12.1 ChocolatesByNumbers</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/c/run/trainingJ7MCG6-74V/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L12_Euclidean%20algorithm/12.2%20CommonPrimeDivisors.md">12.2 CommonPrimeDivisors</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingM4TCFE-VK9/">100%</a></th>	
 </tr> 
 
 
@@ -262,12 +262,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L13_Fibonacci%20numbers">Fibonacci numbers<br>斐波那契数</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L13_Fibonacci%20numbers/13.1%20FibFrog.md">13.1 FibFrog</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingRUYC5U-HM9/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L13_Fibonacci%20numbers/13.2%20Ladder.md">13.2 Ladder</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingCWHC9U-N8W/">100%</a></th>	
 </tr> 
 
 
@@ -276,12 +276,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L14_Binary%20search%20algorithm">Binary search algorithm<br>二分查找</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L14_Binary%20search%20algorithm/14.1%20NailingPlanks.md">14.1 NailingPlanks</a></td>
 	<th> ★★★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingBSJ2TV-FXM/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L14_Binary%20search%20algorithm/14.2%20MinMaxDivision.md">14.2 MinMaxDivision</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training436C73-QBA/">100%</a></th>	
 </tr> 
 
 
@@ -290,23 +290,24 @@ Leader<br>超频数</a></th>
 	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L15_Caterpillar%20method">Caterpillar method<br>履带法</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.1%20AbsDistinct.md">15.1 AbsDistinct</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingTTFUXF-WMA/">100%</a></th>
+	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.2%20CountDistinctSlices.md">15.2 CountDistinctSlices</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training4CF4FJ-NA3/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.3%20CountTriangles.md">15.3 CountTriangles</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingKXTAK3-RNN/">100%</a></th>	
 </tr> 
 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L15_Caterpillar%20method/15.4%20MinAbsSumOfTwo.md">15.4 MinAbsSumOfTwo</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingC7W9QV-NGU/">100%</a></th>	
 </tr> 
 
 
