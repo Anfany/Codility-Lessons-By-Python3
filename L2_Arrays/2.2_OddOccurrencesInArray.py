@@ -1,7 +1,7 @@
 # -*- coding：utf-8 -*-
 # &Author  AnFany
 # Lesson 2：Arrays
-# P 2.1 OddOccurrencesInArray
+# P 2.2 OddOccurrencesInArray
 
 
 def solution_list(A):
