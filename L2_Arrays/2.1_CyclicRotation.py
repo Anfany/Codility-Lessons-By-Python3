@@ -1,7 +1,7 @@
 # -*- coding：utf-8 -*-
 # &Author  AnFany
 # Lesson 2：Arrays
-# P 2.2 CyclicRotation
+# P 2.1 CyclicRotation
 
 
 def solution(A, K):
