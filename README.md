@@ -316,12 +316,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L16_Greedy%20algorithms">Greedy algorithms<br>贪婪算法</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L16_Greedy%20algorithms/16.1%20MaxNonoverlappingSegments.md">16.1 MaxNonoverlappingSegments</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingDJFZ6N-C9G/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L16_Greedy%20algorithms/16.2%20TieRopes.md">16.2 TieRopes</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training76Z444-9YA/">100%</a></th>	
 </tr> 
 
 
@@ -330,12 +330,13 @@ Leader<br>超频数</a></th>
 	<th rowspan="2"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L17_Dynamic%20programming">Dynamic programming<br>动态规划</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L17_Dynamic%20programming/17.1%20NumberSolitaire.md">17.1 NumberSolitaire</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training9RRY2Q-ZSN/">100%</a></th>
+	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L17_Dynamic%20programming/17.2%20MinAbsSum.md">17.2 MinAbsSum</a></td>
 	<th> ★★★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingNMA9WM-AN5/">100%</a></th>	
 </tr> 
 
 <tr>   
@@ -343,17 +344,17 @@ Leader<br>超频数</a></th>
 	<th rowspan="3"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge">Tasks from Indeed Prime<br>2015 challenge</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.1%20LongestPassword.md">90.1 LongestPassword</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingS3RE4H-GZY/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.2%20FloodDepth.md">90.2 FloodDepth</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training6JSDHJ-CKY/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L90_Tasks%20from%20Indeed%20Prime%202015%20challenge/90.3%20SlalomSkiing.md">90.3 SlalomSkiing</a></td>
 	<th> ★★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingDXRTNX-E7U//">100%</a></th>	
 </tr> 
 
 <tr>   
