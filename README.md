@@ -401,7 +401,7 @@ Leader<br>超频数</a></th>
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.4%20DiamondsCount.md">92.4 DiamondsCount</a></td>
-	<th> ★★</th>
+	<th> ★★★★</th>
 	<th><a href="https://app.codility.com/demo/results/training6A2REF-PH5/">100%</a></th>	
 </tr> 
 
