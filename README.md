@@ -362,12 +362,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge">Tasks from Indeed Prime<br>2016 challenge</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.1%20RectangleBuilderGreaterArea.md">91.1 RectangleBuilderGreaterArea</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingXZ2THZ-VY4/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.2%20TreeProduct.md">91.2 TreeProduct</a></td>
 	<th> ★★★★</th>
-	<th> 0%</th>	
+	<th> 0% </th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.3%20HilbertMaze.md">91.3 HilbertMaze</a></td>
@@ -377,7 +377,7 @@ Leader<br>超频数</a></th>
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L91_Tasks%20from%20Indeed%20Prime%202016%20challenge/91.4%20DwarfsRafting.md">91.4 DwarfsRafting</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingYBAPZ4-9C7/">100%</a></th>		
 </tr> 
 
 
@@ -387,12 +387,12 @@ Leader<br>超频数</a></th>
 	<th rowspan="4"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge">Tasks from Indeed Prime 2016<br>College Coders challenge</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.1%20TennisTournament.md">92.1 TennisTournament</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingAVCEZN-SWP/">100%</a></th>	
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.2%20SocksLaundering.md">92.2 SocksLaundering</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingJDHT6E-GPK/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L92_Tasks%20from%20Indeed%20Prime%202016%20College%20Coders%20challenge/92.3%20ArrayRecovery.md">92.3 ArrayRecovery</a></td>
@@ -412,28 +412,28 @@ Leader<br>超频数</a></th>
 	<th rowspan="5"><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/tree/master/L99_Future%20training">Future training</a></th>
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.1%20SqlSum.md">99.1 SqlSum</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingR4C5JD-YVG/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.2%20StrSymmetryPoint.md">99.2 StrSymmetryPoint</a></td>
 	<th> ★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingN42VU9-N9P/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.3%20TreeHeight.md">99.3 TreeHeight</a></td>
 	<th> ★</th>
-	<th> 100% </th>	
+	<th><a href="https://app.codility.com/demo/results/trainingQJRXZ3-RP7/">100%</a></th>		
 </tr> 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.4%20ArrayInversionCount.md">99.4 ArrayInversionCount</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/trainingVC4MK2-UVK/">100%</a></th>		
 </tr> 
 
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.5%20PolygonConcavityIndex.md">99.5 PolygonConcavityIndex</a></td>
 	<th> ★★</th>
-	<th> 100%</th>	
+	<th><a href="https://app.codility.com/demo/results/training83HTWM-JDU/">100%</a></th>		
 </tr> 
 
 
