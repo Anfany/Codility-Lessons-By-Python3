@@ -435,7 +435,7 @@ Leader<br>超频数</a></th>
 <tr> 
 	<td><a href="https://github.com/Anfany/Codility-Lessons-By-Python3/blob/master/L99_Future%20training/99.5%20PolygonConcavityIndex.md">99.5 PolygonConcavityIndex</a></td>
 	<th> ★★</th>
-	<th><a href="https://app.codility.com/demo/results/training83HTWM-JDU/">100%</a></th>		
+	<th><a href="https://app.codility.com/demo/results/trainingPBTSC4-86Q/">100%</a></th>		
 </tr> 
 
 
